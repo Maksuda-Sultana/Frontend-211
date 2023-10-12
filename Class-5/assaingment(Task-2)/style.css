@@ -1,0 +1,174 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+        /* HEADER SECTION */
+.header{
+    background-color:#FEFFF5 ;
+    padding: 50px 0;
+    text-align: center;
+}
+.header h1{
+    color:#0A8080 ;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.header a{
+    background-color:#0A8080 ;
+color:#FFFFFF ;
+font-size: 18px;
+height: 27px;
+font-weight: 700;
+    width: 150px;
+    height: 43px;
+display: inline;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+}
+
+       /* BOBY SECTION */
+
+ .post h2{
+
+color: #0A8080;
+font-size: 36px;
+height: 54px;
+font-weight: 700;
+text-align: center;
+}
+
+section{
+    width: 1280px;
+    height: 1174px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+
+div{
+    
+    
+    background-color: #FEFFF5;
+    padding: 40px;
+    width: 942px;
+    height: 239px;
+    margin: 0 auto ;
+    box-sizing: border-box;
+}
+
+
+.box-one{
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+     color:#FEFFF5 ;
+    
+}
+
+ .box-one h3 {
+   
+    color:#000000;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+ .box-one p{
+    color:#000000 ;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:center ;
+
+}
+
+
+.box-one a{
+    background-color: #0A8080;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 150px;
+    height: 43px;
+    margin: 20px 0;
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.box-two h3{
+
+    color:#000000;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+ .box-two p{
+    color:#000000 ;
+    font-size: 16px;
+    font-family: 400;
+    text-align:center ;
+}
+
+
+.box-two{
+
+box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+}
+.box-two a{
+    background-color: #0A8080;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 150px;
+    height: 43px;
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.box-three{
+box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
+.box-three h3{
+    color:#000000;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+ .box-three p {
+    color:#000000 ;
+    font-size: 16px;
+    font-family: 400;
+    text-align:center ;
+
+}
+
+.box-three a{
+    background-color: #0A8080;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 150px;
+    height: 43px;
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+}
+ 
+/* FOOTER SECTION */
+
+footer{
+    background-color: #0A8080;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+ }
